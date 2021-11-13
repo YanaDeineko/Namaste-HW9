@@ -38,14 +38,9 @@ h1{
 
 h3{
     font-size: 14px;
-    padding: 30px;
+    padding: 15px;
     text-align: center;
 }
-
-.diamond{
-    padding: 21px;
-}
-
 .p_banner{
     text-align: center;
     padding: 10px;
@@ -56,7 +51,7 @@ h3{
 
 .card{
 background-color: #fff;
-padding: 25px;
+padding: 30px;
 width: 24%;
 display:inline-block;
 text-align: center;
@@ -68,10 +63,6 @@ vertical-align: middle;
 .card:hover{
 background-color: rgb(220, 238, 220);
 color: #046163;
-}
-
-p{
-    padding: 5px;
 }
 
 .post{
