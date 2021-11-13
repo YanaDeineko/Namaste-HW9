@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.1s ease-in;
+}
+
+body{
+    font-size: 13px;
+    font-weight: 300;
+    background-color: #fdeeee;
+    color: #361111;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+}
+
+.wrapper{
+    margin: 0 auto;
+    padding:  60px 20px;;
+    max-width: 1100px;
+    min-width: 375px;
+}
+
+.banner{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    color: #ae8a8a;
+    word-break: normal;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 30px;
+    color: #00b5b8;
+    padding: 10px;
+}
+
+h3{
+    font-size: 14px;
+    padding: 30px;
+    text-align: center;
+}
+
+.diamond{
+    padding: 21px;
+}
+
+.p_banner{
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.card{
+background-color: #fff;
+padding: 25px;
+width: 24%;
+display:inline-block;
+text-align: center;
+font-size: 13px;
+vertical-align: middle;
+
+}
+
+.card:hover{
+background-color: rgb(220, 238, 220);
+color: #046163;
+}
+
+p{
+    padding: 5px;
+}
+
+.post{
+    padding: 20px;
+    display: inline;
+    font-size: 0;
+}
